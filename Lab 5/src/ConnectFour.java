@@ -4,6 +4,11 @@ import java.util.*;
 New comment for Lab 6
  */
 
+/*
+3/9/2020
+Additional comment
+ */
+
 public class ConnectFour
 {
     static char[][] connBoard;
