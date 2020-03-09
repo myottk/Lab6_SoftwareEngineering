@@ -2,11 +2,7 @@ import java.util.*;
 /*
 3/9/2020
 New comment for Lab 6
- */
-
-/*
-3/9/2020
-Additional comment
+Showing version control
  */
 
 public class ConnectFour
