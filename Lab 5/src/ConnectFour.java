@@ -1,4 +1,8 @@
 import java.util.*;
+/*
+3/9/2020
+New comment for Lab 6
+ */
 
 public class ConnectFour
 {
